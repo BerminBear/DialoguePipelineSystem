@@ -1,0 +1,6 @@
+{
+  "profile": "larian_demo",
+  "export": { "sample_rate": 48000, "channel_format": "mono" },
+  "loudness": { "target_lufs": -24, "tolerance_lu": 1.5 },
+  "metadata_fields": ["LineID", "Character", "State", "OsirisFlag"]
+}

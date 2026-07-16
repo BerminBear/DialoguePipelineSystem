@@ -1,0 +1,4 @@
+LineID,Character,Text,State,OsirisFlag
+ACT1_AST_001,Astarion,What took you so long?,Idle,None
+ACT1_AST_002,Astarion,I'm bleeding here!,Injured,DB_IsInjured
+ACT1_SHA_001,Shadowheart,Keep moving.,Idle,None
